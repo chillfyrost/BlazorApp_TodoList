@@ -111,6 +111,39 @@
         }
       },
       {
+        "HashCode": -571664738,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Pages.Todo",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": 305417970,
+        "Kind": "Components.Component",
+        "Name": "TodoList.Pages.Todo",
+        "AssemblyName": "TodoList",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TodoList.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TodoList.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1711483287,
         "Kind": "Components.Component",
         "Name": "TodoList.App",
@@ -16614,6 +16647,11 @@
     {
       "FilePath": "c:\\Users\\pb\\Blazor Apps\\BlazorApp_TodoList\\TodoList\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\pb\\Blazor Apps\\BlazorApp_TodoList\\TodoList\\Pages\\Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
